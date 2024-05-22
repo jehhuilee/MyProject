@@ -1,10 +1,9 @@
 # Project Title
 A brief description of what this project does and who it's for.
 
-[http://logo_link](http://logo_link)
+[http://logo_link](http://logo_link)  
 
-## Badges.  
-
+## Badges
 Include some badges such as build status, test coverage, etc.
 
 [http://badge_link](http://badge_link)
@@ -17,8 +16,7 @@ Include some badges such as build status, test coverage, etc.
 * * *   
 
 ## Installation
-```bash
-> git clone https://github.com/username/projectname.git
-> cd projectname
-> pip install requirements.txt
-
+'''bash
+git clone https://github.com/username/projectname.git
+cd projectname
+pip install requirements.txt
