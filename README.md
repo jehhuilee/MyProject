@@ -56,7 +56,9 @@
 git clone [https://github.com/IdeaBank/OpenSource_SW_Final.git](https://github.com/jehhuilee/sejonguni.opensource.git)
 ```
 
-### 3. 실행화면
+### 3. 클론한 파일을 프로젝트에 넣고 실행
+
+### 4. 실행화면
 
 ![KakaoTalk_Photo_2024-06-10-19-15-16](https://github.com/ossys0920/MyProject/assets/168173742/1455b490-fd2b-43f8-a928-0e9c975a0c4d)
 
