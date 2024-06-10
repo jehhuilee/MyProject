@@ -19,21 +19,39 @@
 
 ## 프로젝트 설치 및 실행 방법
 
-"
+- 설치 및 설정 방법
 
-" 
 
-"
+> 아래 링크를 이용하여 OS별 bit별 라이브러리 파일을 다운로드 해줍니다.
+<https://www.sfml-dev.org/download.php>
+>
+>압축을 풀어 적당한 위치에 라이브러리를 저장해 둡니다.
+> 
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/bea639a6-a3bc-4eaf-836f-16a0caa0b4b6)
+>좌측 상단에 있는 구성을 클릭해서 모든 구성으로 바꿔줍니다.
+>
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/13ae99d9-824e-4467-8023-a08b4460055a)
+> 구성 속성- C/C++ -일반 - 추가 포함 디렉터리에 SFML의 include위치를 입력합니다.
+> 
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/5018aae6-1cb1-4444-a3e9-3fb8e3c565ce)
+> 구성 속성- 링커- 일반- 추가 라이브러리 디렉터리에 SFML의 lib폴더를 저장합니다.
+> 
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/4de9c845-e760-4183-9d15-214416106de4)
+> 구성 속성- 링커 - 입력 - 추가 종속성을 클릭하면 아래와 같이 편집이 나타나는데 클릭해줍니다.
+> 
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/db0742ac-38f8-4c68-88b7-f3f7858718ce)
+>나타나는 빈창에 아래를 복사해서 입력한 뒤 확인 버튼을 누르면 입력이 완료됩니다.
+>
+ ![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/9781ce24-a385-473a-bf7a-3b3824f1c3d2)
+ ![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/920c8705-73de-49ee-b91d-8d502549c101)
+>이후 SFML폴더 안 bin폴더안에 있는 파일들을 프로젝트가 위치한 폴더로 이동시켜줍니다.
 
-"
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/1ac99da2-2e55-4fd5-bd03-78469e72345a)
+>스튜디오 오른쪽에 있는 솔루션 탐색기에서 모든 파일 표시를 클릭해 각종. dll파일들이 있는지 확인한 뒤 모두 프로젝트에 포함해주면 됩니다.
+>
+![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/0407e605-e4b7-4a78-b275-7069e5883da9)
 
-"
-
-"
-
-"
-
-"
+출처: https://kali-live.tistory.com/33 [KALILIVE:티스토리]
 
 
 
