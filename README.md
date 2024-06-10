@@ -19,8 +19,7 @@
 
 ## 프로젝트 설치 및 실행 방법
 
-- 설치 및 설정 방법
-
+### 1. sfml 설치
 
 > 아래 링크를 이용하여 OS별 bit별 라이브러리 파일을 다운로드 해줍니다.
 <https://www.sfml-dev.org/download.php>
@@ -47,11 +46,20 @@
 >이후 SFML폴더 안 bin폴더안에 있는 파일들을 프로젝트가 위치한 폴더로 이동시켜줍니다.
 
 ![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/1ac99da2-2e55-4fd5-bd03-78469e72345a)
->스튜디오 오른쪽에 있는 솔루션 탐색기에서 모든 파일 표시를 클릭해 각종. dll파일들이 있는지 확인한 뒤 모두 프로젝트에 포함해주면 됩니다.
->
-![img1 daumcdn](https://github.com/bethebestKR/sejonguni.opensource/assets/150142937/0407e605-e4b7-4a78-b275-7069e5883da9)
+
 
 출처: https://kali-live.tistory.com/33 [KALILIVE:티스토리]
+
+
+### 2. Repository를 클론
+```bash
+git clone [https://github.com/IdeaBank/OpenSource_SW_Final.git](https://github.com/jehhuilee/sejonguni.opensource.git)
+```
+
+### 3. 실행화면
+
+![KakaoTalk_Photo_2024-06-10-19-15-16](https://github.com/ossys0920/MyProject/assets/168173742/1455b490-fd2b-43f8-a928-0e9c975a0c4d)
+
 
 
 
